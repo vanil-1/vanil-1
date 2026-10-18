@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm vanil
 
-<!--
-**vanil-1/vanil-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year IT student focused on **Python** and **C# / Unity** game development.
+I enjoy designing clean architecture and polishing gameplay mechanics until they truly feel right.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Python** — primary language: OOP, CLI applications, testing with pytest
+- **C# / Unity** — 2D gameplay mechanics
+- **Tools** — Git, Linux, SQL (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Strengthening my skills in Unity and C# through small 2D game prototypes
+- Deepening my knowledge of software architecture and design patterns
+
+## Projects
+- **[python_oop_labs](https://github.com/vanil-study/python_oop_labs)** — a CLI service for managing real estate collections, built with a layered architecture, the Strategy pattern, input validators, and unit tests
+
+## Contact
+- Telegram: [@username](https://t.me/username)
+- Email: your.email@example.com
