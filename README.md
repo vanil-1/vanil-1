@@ -1,6 +1,6 @@
 # Hi, I'm vanil
 
-Second-year IT student focused on **Python** and **C# / Unity** game development.
+Second-year IT student focused on Python and game development with C# / Unity.
 I enjoy designing clean architecture and polishing gameplay mechanics until they truly feel right.
 
 ## Tech Stack
@@ -15,6 +15,4 @@ I enjoy designing clean architecture and polishing gameplay mechanics until they
 ## Projects
 - **[python_oop_labs](https://github.com/vanil-study/python_oop_labs)** — a CLI service for managing real estate collections, built with a layered architecture, the Strategy pattern, input validators, and unit tests
 
-## Contact
-- Telegram: [@username](https://t.me/username)
-- Email: your.email@example.com
+
